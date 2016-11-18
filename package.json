@@ -1,0 +1,26 @@
+{
+  "name": "module-js",
+  "version": "1.0.4",
+  "description": "Define namespaces as constructor functions (or any object).",
+  "main": "module.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "open test/tests.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philss/module.git"
+  },
+  "keywords": [
+    "module",
+    "namespacing"
+  ],
+  "author": "Nando Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fnando/module/issues"
+  },
+  "homepage": "https://github.com/fnando/module#readme"
+}
